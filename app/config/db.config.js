@@ -1,4 +1,4 @@
 module.exports = {
-    url: "mongodb://localhost:27017/intecyogi"
+    url: "mongodb+srv://intecyogi:mevnnodejs@intecyogi.id0iw.mongodb.net/intecyogi"
 };
 
