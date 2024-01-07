@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb+srv://intecyogi:mevnnodejs@intecyogi.id0iw.mongodb.net/intecyogi?retryWrites=true&w=majority"
+    url: "mongodb+srv://?retryWrites=true&w=majority"
 };
